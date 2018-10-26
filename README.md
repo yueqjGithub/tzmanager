@@ -3,7 +3,7 @@
 
 ##项目截图  
 
-![Image text](https://github.com/yueqjGithub/tzmanager/img-floader/049e92a12850e5449a4ca90f8763d2c3.png)  
+![Image text](https://github.com/yueqjGithub/tzmanager/blob/master/img-floader/049e92a12850e5449a4ca90f8763d2c3.png)  
 
 ![Image text](https://github.com/yueqjGithub/tzmanager/img-floader/6050fc12da4f3e438d841031512b84bd.png)  
 
